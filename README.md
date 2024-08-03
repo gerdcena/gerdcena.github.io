@@ -1,10 +1,9 @@
 ##### Welcome to gerdcena!
 
 ## Social media channels
-###### <a href="https://www.youtube.com/@g3rdd">Youtube</a>
 ###### <a href="https://x.com/GerdWasTaken">Twitter</a>
-<form action="https://google.com">
+<form action="https://google.com](https://www.youtube.com/@g3rdd">
     <input type="submit" value="Youtube Channel" />
 </form>
 
-<a href="https://google.com" class="button">Go to Google</a>
+
