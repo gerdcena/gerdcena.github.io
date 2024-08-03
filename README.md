@@ -6,3 +6,5 @@
 <form action="https://google.com">
     <input type="submit" value="Youtube Channel" />
 </form>
+
+<a href="https://google.com" class="button">Go to Google</a>
