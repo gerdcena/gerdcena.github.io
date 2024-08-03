@@ -2,7 +2,7 @@
 
 ## Social media channels
 ###### <a href="https://x.com/GerdWasTaken">Twitter</a>
-<form action="https://google.com](https://www.youtube.com/@g3rdd">
+<form action="https://www.youtube.com/@g3rdd">
     <input type="submit" value="Youtube Channel" />
 </form>
 
